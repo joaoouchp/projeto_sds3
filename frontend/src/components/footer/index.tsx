@@ -5,7 +5,7 @@ function Footer() {
         <p className="text-light">
           App desenvolvido por{" "}
           <a
-            href="https://github.com/joaoouchp"
+            href="https://github.com/jpcaparroz"
             target="_blank"
             rel="noreferrer"
           >
